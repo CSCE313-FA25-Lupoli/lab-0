@@ -4,7 +4,7 @@
 #include <cstring>
 #include <stdexcept>
 
-const int MAX_ACCOUNTS = 10000000;
+const int MAX_ACCOUNTS = 100000;
 const int MAX_TRANSACTIONS = 2;
 
 // Transaction structure
